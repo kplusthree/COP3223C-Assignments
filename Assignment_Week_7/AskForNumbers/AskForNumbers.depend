@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551044835 source:c:\users\kortney\desktop\workspace\c assignments\assignment week 7\askfornumbers\askfornumbers.c
+	<stdio.h>
+	<stdlib.h>
+

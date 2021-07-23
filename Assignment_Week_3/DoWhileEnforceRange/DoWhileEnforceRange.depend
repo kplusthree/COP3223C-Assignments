@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548389653 source:c:\users\kortney\desktop\workspace\c assignments\assignment week 3\dowhileenforcerange\dowhileenforcerange.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

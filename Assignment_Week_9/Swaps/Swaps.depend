@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553454325 source:c:\users\kortney\desktop\workspace\c assignments\assignment week 9\swaps\swaps.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

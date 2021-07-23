@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554628830 source:c:\users\kortney\desktop\workspace\c assignments\assignment week 10\states\states.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

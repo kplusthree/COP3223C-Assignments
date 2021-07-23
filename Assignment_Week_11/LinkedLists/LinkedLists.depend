@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555898248 source:c:\users\kortney\desktop\workspace\c assignments\assignment week 11\linkedlists\linkedlists.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+

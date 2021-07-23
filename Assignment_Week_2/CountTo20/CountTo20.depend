@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548027309 source:c:\users\kortney\desktop\workspace\c assignments\assignment week 2\countto20\countto20.c
+	<stdio.h>
+	<stdlib.h>
+

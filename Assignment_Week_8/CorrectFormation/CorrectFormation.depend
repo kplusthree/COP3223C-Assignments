@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552805595 source:c:\users\kortney\desktop\workspace\c assignments\assignment week 8\correctformation\correctformation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

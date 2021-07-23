@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551047411 source:c:\users\kortney\desktop\workspace\c assignments\assignment week 7\randomnumbers\randomnumbers.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
